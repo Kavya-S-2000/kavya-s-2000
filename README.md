@@ -70,7 +70,7 @@ kavya-qa-automation" target="_blank">
 
 
 ## 📫 Contact
-📧 anish.sheganti12345@gmail.com  
+📧 kadambari1102000@gmail.com
 🌐 [Portfolio Website](https://anish-sheganti.netlify.app)  
 🔗 [GitHub](https://github.com/anish-sheganti)
 
