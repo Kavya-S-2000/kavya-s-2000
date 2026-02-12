@@ -69,7 +69,7 @@
 
 
 ## 📫 Contact
-📧 kadambari1102000@gmail.com
+📧 anish.sheganti1234@gmail.com
 🌐 [Portfolio Website](https://anish-sheganti.netlify.app)  
 🔗 [GitHub](https://github.com/anish-sheganti)
 
